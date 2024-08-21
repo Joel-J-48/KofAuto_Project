@@ -1,0 +1,1 @@
+This is a laravel web app for managing driving courses.
